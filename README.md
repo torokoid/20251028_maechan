@@ -451,9 +451,9 @@ https://youtube.com/shorts/1MxKGMEFFR4?feature=share<br>
 <br><br><br><br><br><br><br><br><br>
 
 <br><br>
-<h2><span class="yellow">今日のBGMは เพลย์ลิสต์คาเฟ่ฤดูใบไม้ร่วง ☕ เพลงชิลล์ฟังสบายยามเช้าเดือนตุลาคม | BGM สำหรับทำงานและเรียน</span></h2>
+<h2><span class="yellow">今日のBGMは Tranquil Cat Lullabies 🌿 Gentle Sounds for Sleep, Comfort & Serenity</span></h2>
 <div class="youtube-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VzIofaFJ0ug?si=wwvFnPab2JS3Cq89" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fD97mYc4Iyc?si=y-R_d3_JRp1w0Z3L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
     
     
