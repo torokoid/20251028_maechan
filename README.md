@@ -265,7 +265,7 @@ p.note { display: none; }
 <h2><span class="yellow">タイに戻るので、宿の経営者の親戚のお店によるも、開店休業中</span></h2>
 <a href="20251028_051.JPG" target="_blank"><img src="20251028_051.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">空の卸業者から直接購入</span></h2>
+<h2><span class="yellow">近くの卸業者から直接購入</span></h2>
 <a href="20251028_052.JPG" target="_blank"><img src="20251028_052.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251028_053.JPG" target="_blank"><img src="20251028_053.JPG" alt="サンプル画像" class="responsive-media"></a>
     
